@@ -1,0 +1,14 @@
+# Build artifacts
+*.o
+*.dSYM
+bignum
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Test outputs
+test*.out
+*.pyc
+
