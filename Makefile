@@ -23,7 +23,7 @@ bignum: $(OBJS)
 
 clean:
 	/bin/rm -f $(OBJS) $(ALL)
-	/bin/rm -f test*.py test*.out
+	/bin/rm -f test*.out
 	/bin/rm -rf $(ALL:=.dSYM)
 
 depend: $(SRCS)
