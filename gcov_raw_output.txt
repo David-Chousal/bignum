@@ -1,0 +1,228 @@
+#This file demonstrate the usage of gcov.
+#Contains the unmodified output from running gcov bignum.cxx bignummain.cxx bignumops.cxx.
+#Includes all std lib headers and msgs.
+
+File 'bignum.cxx'
+Lines executed:82.09% of 67
+Creating 'bignum.cxx.gcov'
+
+File './bignum.h'
+Lines executed:100.00% of 1
+Creating 'bignum.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/string'
+Lines executed:83.87% of 31
+Creating 'string.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/wrap_iter.h'
+Lines executed:100.00% of 15
+Creating 'wrap_iter.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/ostream'
+Lines executed:76.19% of 21
+Creating 'ostream.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/compressed_pair.h'
+Lines executed:100.00% of 9
+Creating 'compressed_pair.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/pointer_traits.h'
+Lines executed:50.00% of 4
+Creating 'pointer_traits.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__string/char_traits.h'
+Lines executed:100.00% of 6
+Creating 'char_traits.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/locale'
+Lines executed:55.17% of 29
+Creating 'locale.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ostreambuf_iterator.h'
+Lines executed:100.00% of 3
+Creating 'ostreambuf_iterator.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/ios'
+Lines executed:95.45% of 22
+Creating 'ios.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/streambuf'
+Lines executed:100.00% of 2
+Creating 'streambuf.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator.h'
+Lines executed:100.00% of 2
+Creating 'allocator.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale'
+Lines executed:100.00% of 4
+Creating '__locale.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__string/constexpr_c_functions.h'
+Lines executed:100.00% of 2
+Creating 'constexpr_c_functions.h.gcov'
+
+File 'bignummain.cxx'
+Lines executed:88.68% of 53
+Creating 'bignummain.cxx.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/string'
+Lines executed:60.61% of 66
+Creating 'string.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/istream'
+Lines executed:78.67% of 75
+Creating 'istream.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/ios'
+Lines executed:31.82% of 44
+Creating 'ios.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/sstream'
+Lines executed:100.00% of 9
+Creating 'sstream.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/ostream'
+Lines executed:30.00% of 30
+Creating 'ostream.gcov'
+
+File './bignum.h'
+Lines executed:0.00% of 1
+Creating 'bignum.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/compressed_pair.h'
+Lines executed:38.46% of 13
+Creating 'compressed_pair.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator.h'
+Lines executed:0.00% of 2
+Creating 'allocator.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/pointer_traits.h'
+Lines executed:50.00% of 4
+Creating 'pointer_traits.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/string_view'
+Lines executed:100.00% of 21
+Creating 'string_view.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/min.h'
+Lines executed:100.00% of 4
+Creating 'min.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__string/char_traits.h'
+Lines executed:60.00% of 15
+Creating 'char_traits.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/comp.h'
+Lines executed:100.00% of 2
+Creating 'comp.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__string/constexpr_c_functions.h'
+Lines executed:0.00% of 2
+Creating 'constexpr_c_functions.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/streambuf'
+Lines executed:83.33% of 12
+Creating 'streambuf.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator_traits.h'
+Lines executed:100.00% of 2
+Creating 'allocator_traits.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/limits'
+Lines executed:100.00% of 2
+Creating 'limits.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale'
+Lines executed:33.33% of 6
+Creating '__locale.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_ctype.h'
+Lines executed:100.00% of 2
+Creating '_ctype.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/locale'
+Lines executed:0.00% of 29
+Creating 'locale.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ostreambuf_iterator.h'
+Lines executed:0.00% of 3
+Creating 'ostreambuf_iterator.h.gcov'
+
+File 'bignumops.cxx'
+Lines executed:97.33% of 150
+Creating 'bignumops.cxx.gcov'
+
+File './bignum.h'
+Lines executed:0.00% of 1
+Creating 'bignum.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/ostream'
+Lines executed:0.00% of 23
+Creating 'ostream.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/string'
+Lines executed:21.43% of 42
+Creating 'string.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/reverse.h'
+Lines executed:100.00% of 11
+Creating 'reverse.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/compressed_pair.h'
+Lines executed:0.00% of 9
+Creating 'compressed_pair.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator.h'
+Lines executed:0.00% of 2
+Creating 'allocator.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/wrap_iter.h'
+Lines executed:100.00% of 18
+Creating 'wrap_iter.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/iterator_operations.h'
+Lines executed:100.00% of 3
+Creating 'iterator_operations.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/iter_swap.h'
+Lines executed:100.00% of 3
+Creating 'iter_swap.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/swap.h'
+Lines executed:100.00% of 5
+Creating 'swap.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/pointer_traits.h'
+Lines executed:0.00% of 4
+Creating 'pointer_traits.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__string/char_traits.h'
+Lines executed:0.00% of 6
+Creating 'char_traits.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/locale'
+Lines executed:0.00% of 29
+Creating 'locale.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ostreambuf_iterator.h'
+Lines executed:0.00% of 3
+Creating 'ostreambuf_iterator.h.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/ios'
+Lines executed:0.00% of 22
+Creating 'ios.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/streambuf'
+Lines executed:0.00% of 2
+Creating 'streambuf.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale'
+Lines executed:0.00% of 4
+Creating '__locale.gcov'
+
+File '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__string/constexpr_c_functions.h'
+Lines executed:0.00% of 2
+Creating 'constexpr_c_functions.h.gcov'
+
