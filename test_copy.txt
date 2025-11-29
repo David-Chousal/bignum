@@ -1,0 +1,6 @@
+# Copy constructor tests
+copy 0
+copy 123
+copy -456
+copy 999999999
+

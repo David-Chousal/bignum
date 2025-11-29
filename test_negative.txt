@@ -1,0 +1,8 @@
+# Negative number addition tests
+-1 -1 -2
+-5 -3 -8
+5 -3 2
+-5 3 -2
+100 -100 0
+-100 100 0
+

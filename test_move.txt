@@ -1,0 +1,6 @@
+# Move constructor and move assignment tests
+move 0
+move 123
+move -456
+move 999999999
+

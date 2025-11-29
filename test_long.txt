@@ -1,0 +1,9 @@
+# Constructor with long argument tests
+long 0
+long 123
+long -456
+long 999999999
+long -999999999
+long 2147483647
+long -2147483648
+long 9223372036854775807
